@@ -7,5 +7,5 @@
 - Stories in **Zenhub**
 
 ### Final Project
-- Epics and Stories ( [Issues](https://github.com/j5py/lab-agile-planning/issues "Issues") )
-- Modernize Application and DevOps ( [Review/QA](https://github.com/j5py/lab-agile-planning/tree/main/screenshots "Review/QA") )
+- Epics and Stories ( [Issues](https://github.com/j5py/agile/issues?q=is%3Aissue+is%3Aclosed) )
+- Modernize Application and DevOps ( [Review/QA](https://github.com/j5py/lab-agile-planning/tree/main/screenshots) )
